@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Copy Files/ship.py
+Copy Files/Images/alien.bmp
+Copy Files/Images/ship.bmp
+Copy Files/alien.py
+Copy Files/alien_invasion.py
+Copy Files/bullet.py
+Copy Files/settings.py

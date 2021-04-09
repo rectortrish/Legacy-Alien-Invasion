@@ -34,5 +34,5 @@ class Alien(Sprite):
         #Return true if at edge
 
         self_rect = self.screen.get_rect()
-        if self.rect.right >= screen_rect.right or self.rect.left <= 0:
+        if self.rect.right >= self_rect.right or self.rect.left <= 0:
             return True
